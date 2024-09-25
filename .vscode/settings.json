@@ -1,0 +1,8 @@
+{
+    "editor.wordWrap": "on",
+    "editor.tabCompletion": "on",
+    "editor.stickyTabStops": true,
+    "emmet.showSuggestionsAsSnippets": false,
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "emmet.triggerExpansionOnTab": true
+}
