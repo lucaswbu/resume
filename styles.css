@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+p {
+    font-family: monospace;
+}
+
+ul {
+    font-family: monospace;
+}
