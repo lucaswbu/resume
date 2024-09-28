@@ -1,6 +1,14 @@
+html {
+    padding: 20px;
+    margin: 20px;
+}
+
 h1 {
     text-align: center;
     color: #8c55ff;
+}
+h2 {
+    text-align: center;
 }
 
 a {
@@ -12,5 +20,4 @@ h2 {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-  }
-  
+}
