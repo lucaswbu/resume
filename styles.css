@@ -18,3 +18,15 @@ p {
 ul {
     font-family: monospace;
 }
+
+footer {
+    text-align: center;
+    border: 1px solid #8c55ff;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer a {
+    color: #8c55ff;
+}
+
