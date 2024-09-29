@@ -6,20 +6,27 @@ h1 {
     text-align: center;
 }
 
-img {
+img.profile-pic {
     display: block;
     margin: auto;
+    border-radius: 20px;
+}
+
+img.nation {
+    margin: 0 auto;
+    width: 30px;
+    padding-top: 10px;
+}
+
+.flags {
+    text-align: center;
 }
 
 h2 {
     font-family: cursive;
 }
 
-p {
-    font-family: monospace;
-}
-
-ul {
+p, ul {
     font-family: monospace;
 }
 
@@ -34,7 +41,6 @@ footer a {
     color: #8c55ff;
 }
 
-img {
-    border-radius: 20px;
+ h2.section-title {
+    color: #8c55ff;
 }
-
