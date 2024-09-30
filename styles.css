@@ -6,28 +6,23 @@ h1 {
     text-align: center;
 }
 
-img.profile-pic {
-    display: block;
-    margin: auto;
-    border-radius: 20px;
-}
-
-img.nation {
-    margin: 0 auto;
-    width: 30px;
-    padding-top: 10px;
-}
-
-.flags {
-    text-align: center;
-}
-
 h2 {
     font-family: cursive;
 }
 
 p, ul {
     font-family: monospace;
+}
+
+img.profile-pic {
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.country-flags {
+    text-align: center;
+    padding-top: 10px;
 }
 
 footer {
