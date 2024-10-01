@@ -2,8 +2,15 @@ html {
     background-color: ghostwhite;
 }
 
+.upper-container {
+    background-color: #8c55ff;
+    border-radius: 20px;
+    padding-bottom: 5px;
+}
+
 h1 {
     text-align: center;
+    color: white;
 }
 
 h2 {
@@ -12,6 +19,7 @@ h2 {
 
 p, ul {
     font-family: monospace;
+    font-size: 1.2rem;
 }
 
 img.profile-pic {
