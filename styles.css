@@ -1,32 +1,37 @@
-html {
+body {
     background-color: ghostwhite;
+    padding: 20px;
 }
 
 .upper-container {
-    background-color: #8c55ff;
+    background-color: #ededed;
     border-radius: 20px;
-    padding-bottom: 5px;
+    padding: 10px;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 170px;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
 }
 
 h1 {
     text-align: center;
-    color: white;
+    color: black;
+    font-size: 2.9rem;
 }
 
 h2 {
     font-family: 'Poppins', sans-serif;
     font-size: 1.8rem;
+    color: #8c55ff;
 }
 
 p, ul {
     font-family: 'Poppins', sans-serif;
     font-size: 1.2rem;
-}
-
-img.profile-pic {
-    display: block;
-    margin: auto;
-    border-radius: 20px;
 }
 
 .education {
@@ -53,19 +58,21 @@ img.profile-pic {
     padding-top: 10px;
 }
 
-footer {
+footer .footer-container {
     text-align: center;
+    float: right;
     background-color: #8c55ff;
-    border: 1px solid #8c55ff;
     border-radius: 20px;
     padding: 10px;
     margin: 10px;
 }
 
-footer a {
-    color: white;
+footer p {
+    color: midnightblue;
+    text-align: right;
+    padding-right: 20px;
 }
 
- h2.section-title {
-    color: #8c55ff;
+footer a {
+    color: white;
 }
