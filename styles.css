@@ -50,7 +50,22 @@ p, ul {
 @media (max-width: 768px) {
     .education {
         flex-direction: column;
+
     }
+}
+
+.square {
+    width: 20px;
+    height: 20px;
+    background-color: #8c55ff;
+    display: inline-flex;
+}
+
+.square-2 {
+    width: 20px;
+    height: 20px;
+    background-color: midnightblue;
+    display: inline-flex;
 }
 
 .country-flags {
